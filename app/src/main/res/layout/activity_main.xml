@@ -42,11 +42,12 @@
         android:textStyle="bold" />
 
     <Button
+        android:id="@+id/btnDatePicker"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#FF8E9E"
-        android:textSize="18sp"
-        android:text="SELECT DATE" />
+        android:text="SELECT DATE"
+        android:textSize="18sp" />
 
     <TextView
         android:id="@+id/textView3"
