@@ -54,7 +54,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="30.11.2000"
         android:textColor="#E91E63"
         android:textSize="20sp"
         android:textStyle="bold" />
@@ -70,11 +69,10 @@
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/tvAgeInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="1800000000"
         android:textColor="#E91E63"
         android:textSize="35sp"
         android:textStyle="bold" />
